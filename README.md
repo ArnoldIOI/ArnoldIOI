@@ -1,3 +1,5 @@
+![0xAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldIOI&show_icons=true&theme=kacho_ga)
+
 ### Hi there 👋
 
 <!--
