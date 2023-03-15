@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡  I’m currently exploring the Next Generation of Software Architecture -- GPT Native.
 - 🔭 I’m currently working on emmbedding AIGC into my daily life.
 - 🌱 I’m currently learning Blockchain.
 
