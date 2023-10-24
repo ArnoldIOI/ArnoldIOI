@@ -1,7 +1,7 @@
-### Hi there 👋
-- ⚡  I’m currently exploring the Next Generation of Software Architecture -- GPT Native.
-- 🔭 I’m currently working on emmbedding AIGC into my daily life.
-- 🌱 I’m currently learning Blockchain.
+### Hi there 👋 I'm Arnold
+
+- ⚡  I’m currently exploring the possiblities of AI + Education.
+- 🔭 I’m currently building AI agents that can simplify our lifes.
 
 
 <!-- ![0xAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldIOI&show_icons=true&theme=kacho_ga) -->
