@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Arnold
 
-- ⚡  I’m currently exploring the possiblities of AI + Education.
-- 🔭 I’m currently building AI agents that can simplify our lifes.
+- 🔭 I’m currently working on implementing the simple version of tools I rely on.
+- 🌱 I’m currently learning to reproduce GPT.
+- 👯 I’m looking to collaborate on AI+EDU | **G**enerative**UI** projects.
+
 
 
 <!-- ![0xAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldIOI&show_icons=true&theme=kacho_ga) -->
