@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on implementing the simple version of tools I rely on.
 - 🌱 I’m currently learning to reproduce GPT.
 - 👯 I’m looking to collaborate on AI+EDU | **G**enerative**UI** projects.
-
+- ⚡ Fun fact: I prefer IOI over 101 because it is visually cuter and has stricter symmetry.
 
 
 <!-- ![0xAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnoldIOI&show_icons=true&theme=kacho_ga) -->
